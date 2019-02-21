@@ -393,7 +393,7 @@ The above code would use shades of green instead of shades of yellow for the hig
 The default interface that `react-dates` ships with is the [CSS interface](https://github.com/airbnb/react-with-styles-interface-css). If you want to use this interface along with the theme registration method, you will need to rebuild the core `_datepicker.css` file. We do not currently expose a utility method to build this file, but you can follow along with the code in https://github.com/airbnb/react-dates/blob/master/scripts/buildCSS.js to build your own custom themed CSS file.
 
 [package-url]: https://npmjs.org/package/react-dates
-[npm-version-svg]: http://versionbadg.es/airbnb/react-dates.svg
+[npm-version-svg]: https://versionbadg.es/airbnb/react-dates.svg
 [travis-svg]: https://travis-ci.org/airbnb/react-dates.svg
 [travis-url]: https://travis-ci.org/airbnb/react-dates
 [deps-svg]: https://david-dm.org/airbnb/react-dates.svg
@@ -401,7 +401,7 @@ The default interface that `react-dates` ships with is the [CSS interface](https
 [dev-deps-svg]: https://david-dm.org/airbnb/react-dates/dev-status.svg
 [dev-deps-url]: https://david-dm.org/airbnb/react-dates#info=devDependencies
 [npm-badge-png]: https://nodei.co/npm/react-dates.png?downloads=true&stars=true
-[license-image]: http://img.shields.io/npm/l/react-dates.svg
+[license-image]: https://img.shields.io/npm/l/react-dates.svg
 [license-url]: LICENSE
-[downloads-image]: http://img.shields.io/npm/dm/react-dates.svg
-[downloads-url]: http://npm-stat.com/charts.html?package=react-dates
+[downloads-image]: https://img.shields.io/npm/dm/react-dates.svg
+[downloads-url]: https://npm-stat.com/charts.html?package=react-dates
